@@ -1,0 +1,6 @@
+{
+  "name": "Creative Workspace Portfolio",
+  "description": "Personal portfolio and creative studio workspace showcasing professional projects, interactive typography, team collaborators, and contact information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
